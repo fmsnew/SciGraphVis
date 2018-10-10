@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Application mockups"
 ---
 
 <img align="center" src="https://github.com/fmsnew/SciGraphVis/raw/master/images/mockup_graph.png">
