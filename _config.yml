@@ -1,6 +1,7 @@
 theme: minima
 
 title: SciGraphVis
+author: Nikita Klyuchnikov
 github_username:  fmsnew
 description: > #
-  Tools for scientific analytics: reference manager, visualization tool, and literature recommender system.
+  Tool for scientific analytics: reference manager, visualization tool, and literature recommender system.
