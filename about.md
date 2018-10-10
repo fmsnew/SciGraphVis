@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-SciGraphVis is an free open-source tool for scientific analytics: reference manager, visualization tool, and literature recommender system.
+SciGraphVis is an free open-source application/service for scientific analytics: reference manager, visualization tool, and literature recommender system.
 
 |                   Prototype                   |                            Basic                           |                       Advanced                       |
 |:---------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------:|

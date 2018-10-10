@@ -4,9 +4,13 @@ theme: minima
 header_pages:
   - about.md
 
+minima:
+  date_format: "%b %-d, %Y"
+
 
 title: SciGraphVis
 author: Nikita Klyuchnikov
-github_username:  fmsnew
+email: fmsnew@domain.com
+github_username: fmsnew
 description: > #
-  Tool for scientific analytics: reference manager, visualization tool, and literature recommender system.
+  Tool for scientific analytics: reference manager, citation-graph visualization, and literature recommender system.
