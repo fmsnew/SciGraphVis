@@ -8,9 +8,9 @@ minima:
   date_format: "%b %-d, %Y"
 
 
-title: SciGraphVis
+title: Sci-Hook
 author: Nikita Klyuchnikov
 email: fmsnew@domain.com
 github_username: fmsnew
 description: > #
-  Tool for scientific analytics: reference manager, citation-graph visualization, and literature recommender system.
+  Tool for scientific analytics and search: reference manager, citation-graph visualization, and literature recommender system.
