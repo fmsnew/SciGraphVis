@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-SciGraphVis is a free open-source application/service for scientific analytics: reference manager, visualization tool, and literature recommender system.
+Sci-Hook is a free open-source application/service for scientific analytics and search: reference manager, visualization tool, and literature recommender system.
 
 |                   Prototype                   |                            Basic                           |                       Advanced                       |
 |:---------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------:|
